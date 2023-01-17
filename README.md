@@ -4,4 +4,4 @@
 3. Merge your branch into the main branch.
 
 April: Hello, my favorite games are Tetris, Hades, and Genshin Impact.
-Keane: Hello, my favorite game is Escape From PUBG.
+Keane: Hello, my favorite game is PUBG.
